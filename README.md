@@ -1,6 +1,6 @@
 # HexBinDec
 
-![HexBinDec](https://raw.githubusercontent.com/Rodantny/HexBinDec/master/hexbindec.png)
+![HexBinDec](http://hexadecimalconverter.com/images/hexbindec.png)
 
 Simple user friendly Hexadecimal/Binary/Decimal converter written in HTML, CSS, and Javascript.
 
